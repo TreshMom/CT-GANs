@@ -2,3 +2,6 @@ matplotlib
 numpy
 PIL
 Pillow
+torch
+opencv-python
+ipykernel 
